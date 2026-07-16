@@ -1,15 +1,15 @@
 {
-    "channel":  "beta",
-    "applicationId":  "com.moodsnext.det8",
-    "versionName":  "0.14.0-DE-T8-Beta",
-    "versionCode":  17,
-    "minimumSupportedVersionCode":  17,
-    "required":  false,
-    "tag":  "det8-beta-v0.14.0",
-    "apkUrl":  "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/download/det8-beta-v0.14.0/MOODS-DE-T8-Beta-0.14.0-DE-T8-Beta.apk",
-    "releaseUrl":  "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/tag/det8-beta-v0.14.0",
-    "sha256":  "f01017108fcdc03371be055dea431a5eebbe090c6cedb343b228a9c1b9427d02",
-    "sizeBytes":  76103113,
-    "publishedAt":  "2026-07-16T10:35:00.8399770Z",
-    "releaseNotes":  "First permanently signed isolated MOODS DE-T8 Beta with local anime resolver, Beta control plane, secure user-approved updater, and release diagnostics. Physical provider playback and update installation remain unproven until owner device testing."
+  "channel": "beta",
+  "applicationId": "com.moodsnext.det8",
+  "versionName": "0.14.1-DE-T8-Beta",
+  "versionCode": 18,
+  "minimumSupportedVersionCode": 17,
+  "required": false,
+  "tag": "det8-beta-v0.14.1",
+  "apkUrl": "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/download/det8-beta-v0.14.1/MOODS-DE-T8-Beta-0.14.1-DE-T8-Beta.apk",
+  "releaseUrl": "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/tag/det8-beta-v0.14.1",
+  "sha256": "7b7626f0612e5b52de41d62ebf9b6cd0ed5d624b14c96488bf656713d30bb868",
+  "sizeBytes": 76109665,
+  "publishedAt": "2026-07-16T13:05:55.1249016Z",
+  "releaseNotes": "Fixes DE-T8 profile sync so Beta uses the same accounts, profiles, watchlist, history, progress and user data as stable MOODS while retaining isolated Beta controls. Physical cross-app sync remains unproven until owner device testing."
 }

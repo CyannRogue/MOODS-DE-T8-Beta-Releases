@@ -1,15 +1,15 @@
 {
   "channel": "beta",
   "applicationId": "com.moodsnext.det8",
-  "versionName": "0.15.0-DE-T8-Beta",
-  "versionCode": 19,
+  "versionName": "0.15.1-DE-T8-Beta",
+  "versionCode": 20,
   "minimumSupportedVersionCode": 17,
   "required": false,
-  "tag": "det8-beta-v0.15.0",
-  "apkUrl": "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/download/det8-beta-v0.15.0/MOODS-DE-T8-Beta-0.15.0-DE-T8-Beta.apk",
-  "releaseUrl": "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/tag/det8-beta-v0.15.0",
-  "sha256": "0b48bdf4c3f3eb34d54fdb2cfd674e41e68b9f973132c82f394ff76272b282a1",
-  "sizeBytes": 75955877,
-  "publishedAt": "2026-07-17T08:18:49.5613748Z",
-  "releaseNotes": "Canonical device identity (updates no longer consume a device slot), independent anime metadata, gated local anime providers with bounded fallback, unified Anime area (JP/CN/KR), profile recommendations, cleaner Audio & Server sheet."
+  "tag": "det8-beta-v0.15.1",
+  "apkUrl": "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/download/det8-beta-v0.15.1/MOODS-DE-T8-Beta-0.15.1-DE-T8-Beta.apk",
+  "releaseUrl": "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/tag/det8-beta-v0.15.1",
+  "sha256": "fca8a529bef2d1da71a62c32c5db2c3e58299666561ac40878897dbbd3518b9d",
+  "sizeBytes": 75955793,
+  "publishedAt": "2026-07-17T14:30:27.2063726Z",
+  "releaseNotes": "Fixes anime streams stuck on \"Resolving - Browser session\": Auto now tries native OkHttp providers (AllAnime, AnimeKai, AniZone, AnimeGG) before browser/WebView providers. Completes the Donghua-to-Anime merge in the Browse hero. Builds on canonical device identity and independent anime metadata from 0.15.0."
 }

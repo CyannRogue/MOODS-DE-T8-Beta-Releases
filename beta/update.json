@@ -1,15 +1,15 @@
 {
     "channel":  "beta",
     "applicationId":  "com.moodsnext.det8",
-    "versionName":  "0.16.0-DE-T8-Beta",
-    "versionCode":  21,
+    "versionName":  "0.16.1-DE-T8-Beta",
+    "versionCode":  22,
     "minimumSupportedVersionCode":  17,
     "required":  false,
-    "tag":  "det8-beta-v0.16.0",
-    "apkUrl":  "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/download/det8-beta-v0.16.0/MOODS-DE-T8-Beta-0.16.0-DE-T8-Beta.apk",
-    "releaseUrl":  "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/tag/det8-beta-v0.16.0",
-    "sha256":  "8288f1f9716e7a43cbbbd3800945532f8e6a74e2af93f8b6b4b8112415889151",
-    "sizeBytes":  76128101,
-    "publishedAt":  "2026-07-17T22:07:17.7051305Z",
+    "tag":  "det8-beta-v0.16.1",
+    "apkUrl":  "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/download/det8-beta-v0.16.1/MOODS-DE-T8-Beta-0.16.1-DE-T8-Beta.apk",
+    "releaseUrl":  "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/tag/det8-beta-v0.16.1",
+    "sha256":  "5f4523a99d368f412101421a4885694d5f9fde1d83f5023b2968b35be915bce3",
+    "sizeBytes":  76128617,
+    "publishedAt":  "2026-07-18T02:34:30.2262458Z",
     "releaseNotes":  "MOODS DE-T8 Beta prerelease. Physical playback remains unproven."
 }

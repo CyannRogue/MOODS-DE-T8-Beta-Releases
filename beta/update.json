@@ -1,15 +1,15 @@
-﻿{
+{
     "channel":  "beta",
     "applicationId":  "com.moodsnext.det8",
-    "versionName":  "0.17.0-DE-T8-Beta",
-    "versionCode":  24,
+    "versionName":  "0.16.2-DE-T8-Beta",
+    "versionCode":  23,
     "minimumSupportedVersionCode":  17,
     "required":  false,
-    "tag":  "det8-beta-v0.17.0",
-    "apkUrl":  "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/download/det8-beta-v0.17.0/MOODS-DE-T8-Beta-0.17.0-DE-T8-Beta.apk",
-    "releaseUrl":  "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/tag/det8-beta-v0.17.0",
-    "sha256":  "d7e98f4ab843e4424ec2c548b73da7e363ad54e3e5ee9d788e4f3b4a28d17e56",
-    "sizeBytes":  76685729,
-    "publishedAt":  "2026-07-18T18:37:01.8889165Z",
-    "releaseNotes":  "Android-first Anime runtime: multi-family direct Media3 playback, Sub/Dub, subtitles, CN/KR/movie coverage, bounded fallback, safe diagnostics, and Fable technical handoff."
+    "tag":  "det8-beta-v0.16.2",
+    "apkUrl":  "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/download/det8-beta-v0.16.2/MOODS-DE-T8-Beta-0.16.2-DE-T8-Beta.apk",
+    "releaseUrl":  "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/tag/det8-beta-v0.16.2",
+    "sha256":  "d0e9bb2f0ceb02fbab6556c5b3e0118583cead731d33e2c364ce4b1652c50518",
+    "sizeBytes":  76129765,
+    "publishedAt":  "2026-07-18T15:06:02.5437927Z",
+    "releaseNotes":  "MOODS DE-T8 Beta prerelease. Physical playback remains unproven."
 }

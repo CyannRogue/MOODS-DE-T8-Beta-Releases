@@ -1,15 +1,15 @@
 {
-  "channel": "beta",
-  "applicationId": "com.moodsnext.det8",
-  "versionName": "0.17.1-DE-T8-Beta",
-  "versionCode": 25,
-  "minimumSupportedVersionCode": 17,
-  "required": false,
-  "tag": "det8-beta-v0.17.1",
-  "apkUrl": "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/download/det8-beta-v0.17.1/MOODS-DE-T8-Beta-0.17.1-DE-T8-Beta.apk",
-  "releaseUrl": "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/tag/det8-beta-v0.17.1",
-  "sha256": "2f916af2d0abd8e081565c55c63af2789addfc29c90afb21e83aebb33bc6eb50",
-  "sizeBytes": 76686341,
-  "publishedAt": "2026-07-18T19:40:05Z",
-  "releaseNotes": "Corrects title-only Anime identity recovery in the standalone Beta, preserves policy-controlled native providers, and includes physical Samsung release proof for Attack on Titan and Spirited Away through direct Media3 playback."
+    "channel":  "beta",
+    "applicationId":  "com.moodsnext.det8",
+    "versionName":  "0.18.0-DE-T8-Beta",
+    "versionCode":  26,
+    "minimumSupportedVersionCode":  17,
+    "required":  false,
+    "tag":  "det8-beta-v0.18.0",
+    "apkUrl":  "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/download/det8-beta-v0.18.0/MOODS-DE-T8-Beta-0.18.0-DE-T8-Beta.apk",
+    "releaseUrl":  "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/tag/det8-beta-v0.18.0",
+    "sha256":  "def138a1dea5edfbcf8ab87d09e266c03694a52200d69925e369018e2f0d13dc",
+    "sizeBytes":  76678193,
+    "publishedAt":  "2026-07-19T05:47:02.3466946Z",
+    "releaseNotes":  "Nuvio-informed UI port: one main player (inline Details player removed), preserved tab state with repeat-to-top, typed deep links, playback notification service, local notification centre, expanded playback/system settings."
 }

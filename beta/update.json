@@ -1,15 +1,15 @@
 {
     "channel":  "beta",
     "applicationId":  "com.moodsnext.det8",
-    "versionName":  "0.18.0-DE-T8-Beta",
-    "versionCode":  26,
+    "versionName":  "0.19.0-DE-T8-Beta",
+    "versionCode":  27,
     "minimumSupportedVersionCode":  17,
     "required":  false,
-    "tag":  "det8-beta-v0.18.0",
-    "apkUrl":  "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/download/det8-beta-v0.18.0/MOODS-DE-T8-Beta-0.18.0-DE-T8-Beta.apk",
-    "releaseUrl":  "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/tag/det8-beta-v0.18.0",
-    "sha256":  "def138a1dea5edfbcf8ab87d09e266c03694a52200d69925e369018e2f0d13dc",
-    "sizeBytes":  76678193,
-    "publishedAt":  "2026-07-19T05:47:02.3466946Z",
-    "releaseNotes":  "Nuvio-informed UI port: one main player (inline Details player removed), preserved tab state with repeat-to-top, typed deep links, playback notification service, local notification centre, expanded playback/system settings."
+    "tag":  "det8-beta-v0.19.0",
+    "apkUrl":  "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/download/det8-beta-v0.19.0/MOODS-DE-T8-Beta-0.19.0-DE-T8-Beta.apk",
+    "releaseUrl":  "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/tag/det8-beta-v0.19.0",
+    "sha256":  "940f173f49c6626e8f39a352d24fa55ac509ca89197cb326c95c74bcb7ab576f",
+    "sizeBytes":  76687289,
+    "publishedAt":  "2026-07-19T12:19:48.8084358Z",
+    "releaseNotes":  "Nuvio UI implementation: Nuvio design system (surfaces, type, radii, motion), floating pill bottom navigation with scroll-collapsing labels, Nuvio TV sidebar, hero watchlist action, About page, and a root-cause fix for the bottom-edge flicker (persistent splash window background)."
 }

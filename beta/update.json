@@ -1,15 +1,15 @@
 {
-    "channel":  "beta",
-    "applicationId":  "com.moodsnext.det8",
-    "versionName":  "0.19.0-DE-T8-Beta",
-    "versionCode":  27,
-    "minimumSupportedVersionCode":  17,
-    "required":  false,
-    "tag":  "det8-beta-v0.19.0",
-    "apkUrl":  "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/download/det8-beta-v0.19.0/MOODS-DE-T8-Beta-0.19.0-DE-T8-Beta.apk",
-    "releaseUrl":  "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/tag/det8-beta-v0.19.0",
-    "sha256":  "940f173f49c6626e8f39a352d24fa55ac509ca89197cb326c95c74bcb7ab576f",
-    "sizeBytes":  76687289,
-    "publishedAt":  "2026-07-19T12:19:48.8084358Z",
-    "releaseNotes":  "Nuvio UI implementation: Nuvio design system (surfaces, type, radii, motion), floating pill bottom navigation with scroll-collapsing labels, Nuvio TV sidebar, hero watchlist action, About page, and a root-cause fix for the bottom-edge flicker (persistent splash window background)."
+  "channel": "beta",
+  "applicationId": "com.moodsnext.det8",
+  "versionName": "0.20.0-DE-T8-Beta",
+  "versionCode": 28,
+  "minimumSupportedVersionCode": 17,
+  "required": false,
+  "tag": "det8-beta-v0.20.0",
+  "apkUrl": "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/download/det8-beta-v0.20.0/MOODS-DE-T8-Beta-0.20.0-DE-T8-Beta.apk",
+  "releaseUrl": "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/tag/det8-beta-v0.20.0",
+  "sha256": "76717579c3e94f2b7799f3fe061ccbd3e1e794c1f3fb0a9b98aa4e7b8d72c289",
+  "sizeBytes": 76735997,
+  "publishedAt": "2026-07-20T12:28:18.152Z",
+  "releaseNotes": "PenguPlay replaces Vidlink as the primary movie and TV provider. Vidlink is disabled and retained for emergency rollback only. Anime and donghua routing are unchanged. Direct native playback verified; backend video relay not used; local proxy not required in verified tests."
 }

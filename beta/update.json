@@ -1,15 +1,15 @@
 {
   "channel": "beta",
   "applicationId": "com.moodsnext.det8",
-  "versionName": "0.20.0-DE-T8-Beta",
-  "versionCode": 28,
+  "versionName": "0.20.1-DE-T8-Beta",
+  "versionCode": 29,
   "minimumSupportedVersionCode": 17,
   "required": false,
-  "tag": "det8-beta-v0.20.0",
-  "apkUrl": "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/download/det8-beta-v0.20.0/MOODS-DE-T8-Beta-0.20.0-DE-T8-Beta.apk",
-  "releaseUrl": "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/tag/det8-beta-v0.20.0",
-  "sha256": "76717579c3e94f2b7799f3fe061ccbd3e1e794c1f3fb0a9b98aa4e7b8d72c289",
-  "sizeBytes": 76735997,
-  "publishedAt": "2026-07-20T12:28:18.152Z",
-  "releaseNotes": "PenguPlay replaces Vidlink as the primary movie and TV provider. Vidlink is disabled and retained for emergency rollback only. Anime and donghua routing are unchanged. Direct native playback verified; backend video relay not used; local proxy not required in verified tests."
+  "tag": "det8-beta-v0.20.1",
+  "apkUrl": "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/download/det8-beta-v0.20.1/MOODS-DE-T8-Beta-0.20.1-DE-T8-Beta.apk",
+  "releaseUrl": "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/tag/det8-beta-v0.20.1",
+  "sha256": "0c5eca5d76348b7b06a55b7071e8d55764e8bc7379efd5bc5bd592482edf1cb2",
+  "sizeBytes": 76736009,
+  "publishedAt": "2026-07-20T17:07:05.7445118Z",
+  "releaseNotes": "Fixes movie and TV playback by routing PenguPlay through the native local resolver. PenguPlay remains the primary movie and TV provider; Vidlink remains disabled for emergency rollback. Anime and donghua routing are unchanged."
 }

@@ -1,15 +1,15 @@
 {
   "channel": "beta",
   "applicationId": "com.moodsnext.det8",
-  "versionName": "0.20.1-DE-T8-Beta",
-  "versionCode": 29,
+  "versionName": "0.20.2-DE-T8-Beta",
+  "versionCode": 30,
   "minimumSupportedVersionCode": 17,
   "required": false,
-  "tag": "det8-beta-v0.20.1",
-  "apkUrl": "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/download/det8-beta-v0.20.1/MOODS-DE-T8-Beta-0.20.1-DE-T8-Beta.apk",
-  "releaseUrl": "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/tag/det8-beta-v0.20.1",
-  "sha256": "0c5eca5d76348b7b06a55b7071e8d55764e8bc7379efd5bc5bd592482edf1cb2",
-  "sizeBytes": 76736009,
-  "publishedAt": "2026-07-20T17:07:05.7445118Z",
-  "releaseNotes": "Fixes movie and TV playback by routing PenguPlay through the native local resolver. PenguPlay remains the primary movie and TV provider; Vidlink remains disabled for emergency rollback. Anime and donghua routing are unchanged."
+  "tag": "det8-beta-v0.20.2",
+  "apkUrl": "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/download/det8-beta-v0.20.2/MOODS-DE-T8-Beta-0.20.2-DE-T8-Beta.apk",
+  "releaseUrl": "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/tag/det8-beta-v0.20.2",
+  "sha256": "26018313031c9e01233fad2a145201034d81170df78d194b5f10f61f0e34f101",
+  "sizeBytes": 76598533,
+  "publishedAt": "2026-07-21T01:00:04.7928959Z",
+  "releaseNotes": "Makes provider-attempt, fallback-event, and playback diagnostics delivery reliable and idempotent. Adds bounded retry and duplicate suppression while keeping telemetry outside the provider-resolution and Media3 playback critical path."
 }

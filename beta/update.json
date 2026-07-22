@@ -1,15 +1,15 @@
 {
   "channel": "beta",
   "applicationId": "com.moodsnext.det8",
-  "versionName": "0.20.2-DE-T8-Beta",
-  "versionCode": 30,
+  "versionName": "0.20.3-DE-T8-Beta",
+  "versionCode": 31,
   "minimumSupportedVersionCode": 17,
   "required": false,
-  "tag": "det8-beta-v0.20.2",
-  "apkUrl": "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/download/det8-beta-v0.20.2/MOODS-DE-T8-Beta-0.20.2-DE-T8-Beta.apk",
-  "releaseUrl": "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/tag/det8-beta-v0.20.2",
-  "sha256": "26018313031c9e01233fad2a145201034d81170df78d194b5f10f61f0e34f101",
-  "sizeBytes": 76598533,
-  "publishedAt": "2026-07-21T01:00:04.7928959Z",
-  "releaseNotes": "Makes provider-attempt, fallback-event, and playback diagnostics delivery reliable and idempotent. Adds bounded retry and duplicate suppression while keeping telemetry outside the provider-resolution and Media3 playback critical path."
+  "tag": "det8-beta-v0.20.3",
+  "apkUrl": "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/download/det8-beta-v0.20.3/MOODS-DE-T8-Beta-0.20.3-DE-T8-Beta.apk",
+  "releaseUrl": "https://github.com/CyannRogue/MOODS-DE-T8-Beta-Releases/releases/tag/det8-beta-v0.20.3",
+  "sha256": "68ae4608b5169006281c7e5591d20ffee74237e613dfaec5523f117d286dcc7c",
+  "sizeBytes": 76610889,
+  "publishedAt": "2026-07-22T18:21:14.5469877Z",
+  "releaseNotes": "Completes the PenguPlay/Nuvio selected-source handoff through the real Details-screen playback route and adds a Binder-safe native playback launch. Preserves separate request/response headers, provider-ranked source order and the authoritative startup source, keeps direct playback first with bounded same-source MIME/proxy recovery before ordered failover, and strengthens seek proof (target reached and playback continues). Backend video relay stays off and standalone Vidlink stays disabled."
 }
